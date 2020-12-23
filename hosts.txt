@@ -1,2 +1,2 @@
-84.200.100.203,--etcd,--controlplane
-84.200.100.205,--worker
+<ip>,--etcd,--controlplane
+<ip>,--worker
